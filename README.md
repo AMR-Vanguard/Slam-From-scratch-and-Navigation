@@ -49,5 +49,12 @@ This project implements Simultaneous Localization and Mapping (SLAM) and autonom
    ./main
    ```
 
+## Results
+
+Below is a collage showing the mid-term and final maps obtained during testing(final test has integrated the imu, mid one without imu):
+
+![Result Maps Collage](resuls.png)
+
+
 ## License
 See [LICENSE](LICENSE).
